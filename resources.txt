@@ -1,0 +1,8 @@
+Composio google calender api into crewAi: https://www.youtube.com/watch?v=zU8CMbLq3XI
+
+Composio GitHub repo: https://github.com/ComposioHQ/composio/tree/master/python/examples
+
+Personal Teacher: https://github.com/daanbuseyne/PersonalTeacherWithCrewAI/tree/main
+
+Course to Conversation: https://github.com/ZakiGll/Course-to-Conversation-Transformer-with-CrewAI/tree/main/course-to-conversation
+
